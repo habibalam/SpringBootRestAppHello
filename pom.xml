@@ -12,6 +12,7 @@
 	<artifactId>SpringBootRestAppHello</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootRestAppHello</name>
+	<packaging>war</packaging>
 	<description>SpringBootRestAppHello</description>
 
 	<properties>
